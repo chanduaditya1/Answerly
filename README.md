@@ -1,0 +1,2 @@
+# Answerly
+gitignorefile
